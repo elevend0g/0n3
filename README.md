@@ -1,6 +1,6 @@
-# Multi-Model Chat Application
+# 0n3: Multi-Model Chat Interface
 
-A full-stack application that enables chat interactions with multiple language models simultaneously. The application supports code execution and streaming responses.
+A powerful full-stack application for unified communication with multiple language models. 0n3 (pronounced "one") serves as a singular interface to interact with diverse AI models simultaneously, enabling seamless code execution and real-time streaming responses.
 
 ## Features
 
